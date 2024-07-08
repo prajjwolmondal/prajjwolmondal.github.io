@@ -148,7 +148,7 @@ h1 {
   }
   
   .leftPanel {
-    width: 27%;
+    width: 31%;
     background-color: #484444;
     padding: 0.7cm;
     display: flex;
@@ -157,7 +157,7 @@ h1 {
   }
   
   .rightPanel {
-    width: 73%;
+    width: 69%;
     padding: 0.7cm;
   }
   
