@@ -9,7 +9,7 @@ h1 {
     font-family: 'Archivo Narrow', sans-serif;
   }
   
-  h3 { /* Accountant */
+  h3 {
     font-family: 'Open Sans', sans-serif;
   }
   
@@ -28,6 +28,13 @@ h1 {
   .smallText a {
     font-family: 'Source Sans Pro', sans-serif;
     text-align: justify;
+  }
+
+  .aboutMe p {
+    margin-bottom: 5px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: justify;
+    font-size: 1em;
   }
   
   /* End Family */
