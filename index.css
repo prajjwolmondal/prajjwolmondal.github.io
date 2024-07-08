@@ -27,7 +27,6 @@ h1 {
   .smallText p, 
   .smallText a {
     font-family: 'Source Sans Pro', sans-serif;
-    text-align: justify;
   }
 
   .aboutMe p {
@@ -130,11 +129,6 @@ h1 {
     display: block;
     margin: 0 auto;
     margin-bottom: 0.5cm;
-  }
-  
-  page[size="A4"] {  
-    width: 21cm;
-    height: 29.7cm; 
   }
   
   @page {
